@@ -1,4 +1,4 @@
-//this will treated as individual
+//this will treated as bundle
 function add(...args){
    
  let sum=0;
