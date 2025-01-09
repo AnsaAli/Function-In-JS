@@ -1,0 +1,49 @@
+
+1. skip even numbers without modifying the the arr
+let arr=[2,6,7,5,1,22,8,9,3];
+
+2. how many shift do we need to keep s=== goal', with and without using the inbuild methods (includes)
+let s = "abcde"
+let goal = "bcdea"
+
+3. find the second largest word from a sentence with and without using split;
+
+4. without sorting the array, find the second largest array value;
+
+5.Delete the even/odd/prime numbers from an array
+
+6. Find all the duplicate values fron array.
+
+7. write a function to get the following output
+   let s = 'banana'
+   res = 'b-aa-nnn-aaaa-nnnnn-aaaaaa'
+
+8. find the usinque values from a string, with less complexity
+   let s = 'aabbse'
+   ouput = 'se'
+
+9. Write a JavaScript function that takes an array of numbers as input and moves all the even numbers to the front 
+  of the array while preserving the relative order of both even and odd numbers. Return the modified array.
+    Input:[3, 1, 4, 1, 5, 9, 2, 6]
+    Output:[4, 2, 6, 3, 1, 1, 5, 9]
+
+
+10. //skip even numbers without modifying the the arr
+    let arr=[2,6,7,5,1,22,8,9,3];
+
+11.check palindrome
+
+12. check if it is anagram
+   let a = 'listet'
+   let b = 'silent'
+
+13. check two objects are deeply equal
+
+14. const str = 'swiss';
+    console.log(firstNonRepeatingChar(str));
+
+15. Write a function to group anagrams from an array of strings.
+    Input: const words = ['eat', 'tea', 'tan', 'ate', 'nat', 'bat'];
+    console.log(groupAnagrams(words));
+
+    Output:[['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
